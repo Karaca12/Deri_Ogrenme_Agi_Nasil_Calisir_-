@@ -4,4 +4,4 @@ Daha doğrusu bir yapay sinir ağı nasıl öğrenir onu burada anlamaya çalı�
 
 ## Aktivasyon  kod'da : def aktivasyonfc():
 
-<image width=100, height=100 href="https://github.com/Karaca12/Deri_Ogrenme_Agi_Nasil_Calisir_-/blob/main/aktivasyon%20fonksiyonu.png">
+<image width=100 height=100 href="https://github.com/Karaca12/Deri_Ogrenme_Agi_Nasil_Calisir_-/blob/main/aktivasyon%20fonksiyonu.png">
