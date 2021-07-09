@@ -42,5 +42,8 @@ Not: Yukarıdaki değrelere bakarak şu yargıya vara biliriz ilk değer için b
 
 
 
-## Aktivasyon  kod'da : def aktivasyonfc():
+## Aktivasyon Nasıl Çalışıyor ?:
+Aktivasyon özetle matematiksel bir denklem. 
+
+Üzerinde çokça düşünülecek bir yanı yoktur. Üzerinde çalıştığımız probleme göre kullanırız sınıflama problemi mi? , Tahmin problemimi Şöylede düşünülebilir ; bu fonksiyonlardan hangisi yada hangileri yapay sinir ağının tahmin etme'de doğru bilme oranını arttırar ?.
 <img align="left" width="900" height="500" src="https://github.com/Karaca12/Deri_Ogrenme_Agi_Nasil_Calisir_-/blob/main/aktivasyon%20fonksiyonu.png">
