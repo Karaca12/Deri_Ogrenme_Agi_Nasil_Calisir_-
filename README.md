@@ -19,14 +19,24 @@ Sinir Sistemi	| Yapay Sinir Ağı
 <br>
 <img width="900" height="500" src="https://github.com/Karaca12/Deri_Ogrenme_Agi_Nasil_Calisir_-/blob/main/sinirag%C4%B11.jpg">
 
-### İyi güzelde nasıl çalışyor?
+### İyi güzelde nasıl çalışyor ?
+Veriye ihtiyaç olduğunu söylüyorum ve geçiyorum. Klasik olarak bir methodun ihtiyacı olan bir girdi ve çıktı silsilesi düşünüldüğünde.
+Neyse! 
 Öncelikle öğrenme ve tahmin işlemlerinin farklı şeyler olduğunu kesinlikle aklına kazımalısın.
-öğrenme işlemi ayrı zamanda koşturulur. Tahmin işlemi ayrı zamanda.
+Öğrenme işlemi ayrı zamanda koşturulur,tahmin işlemi ayrı zamanda.
 Burada anlaştıysak devam edelim.
 
-Not: Gün içinde yazıya devam edeceyim kb.
+Öncelikle deneme() yada try() fonskiyonu koşmaya başlar ; Bu fonksiyon öğrenme işlemidir.
+bu fonksiyonun altında şu fonksiyonlar koşturulur;
+
+1.ileriyayılım() koştur. --> giriş ve önceden belirlediğimiz (değişkenlere atadğımız ağırlıklarla çarpımını alır) bir değişkene sonuçları kaydeder ve geriyayılım methoduna gönderir()
+2.geriyayılım() koştur --->   gerçek sonuçtan tahmin değerini çıkarır. bu hata miktarı olarak kaydeder. ve bunuda günün sonu sonunda başlangıçta belirlediğimiz ağırlıklara ekleme/çıkarma yaparak bias yani ön yargın değerlerimizi verir. 
 
 
+
+### Tahmin Nasıl Çalışıyor ? 
+
+ileri ve geri yayılım methodlarımız sayesinde başlangıçta belirlediğimiz ağırlıklar  yapılan try(), deneme() ,öğren() her neyse  altında çalışan ileir ve geri yayılım  methodları sayesinde ağırlıkları başlangıç ağırlıklarına ekleyerek yada çıkarark yeni biaslar elde ederi. ve bunun sonunda aktivasyon fonksiyonu ateşlenir ve biz sınıflama aktivasyon fonksiyonu oluşturmuşsak   1 yada 0  döndürür girilen değere bağlı olarak.
 
 
 
