@@ -5,7 +5,7 @@ Daha doğrusu bir yapay sinir ağı nasıl öğrenir onu burada anlamaya çalı�
 ## Yapay sinir ağı neye benzer ?
 <br>
 
-<img align="left" width="900" height="500" src="https://github.com/Karaca12/Deri_Ogrenme_Agi_Nasil_Calisir_-/blob/main/sinirag%C4%B1.jpg">
+<img width="900" height="500" src="https://github.com/Karaca12/Deri_Ogrenme_Agi_Nasil_Calisir_-/blob/main/sinirag%C4%B1.jpg">
 
 
 
