@@ -37,7 +37,8 @@ bu fonksiyonun altında şu fonksiyonlar koşturulur;
 
 ### Tahmin Nasıl Çalışıyor ? 
 
-İleri ve geri yayılım methodlarımız sayesinde başlangıçta belirlediğimiz ağırlıklar  yapılan try(), deneme() ,öğren() adına her ne diyorsak! altında çalışan ileri ve geri yayılım  methodları sayesinde ağırlıkları başlangıç ağırlıklarına ekleyerek yada çıkarark yeni biaslar elde ederi. Bu biaslar neticesinde Bir tahminet() methoduna girdileri verdiğimizde  öğrenmiş sinir ağımız biasları yani ağırlıklarla çarpılarak. aktivasyon fonksiyonunu koştururz bunun neticesinde fonskiyon  biz sınıflama denklemi kullanmışsak    1 yada 0  girilen değere bağlı olarak.(Taabi kaç sınıflı bir veri gönderdiyseniz okadar değer dönderme ihtimali olur. Ben varsayımda bulunarak  iki sınıflı konuştum.)
+İleri ve geri yayılım methodlarımız sayesinde başlangıçta belirlediğimiz ağırlıklar  yapılan try(), deneme() ,öğren() adına her ne diyorsak! altında çalışan ileri ve geri yayılım  methodları sayesinde ağırlıkları başlangıç ağırlıklarına ekleyerek yada çıkarark yeni biaslar elde ederi. Bu biaslar neticesinde Bir tahminet() methoduna girdileri verdiğimizde  öğrenmiş sinir ağımız biasları yani ağırlıklarla çarpılarak. aktivasyon fonksiyonunu koştururz bunun neticesinde fonskiyon  biz sınıflama denklemi kullanmışsak    0,9999585 yada 0,00212  girilen değere bağlı olarak değer döndürür .(Taabi kaç sınıflı bir veri gönderdiyseniz okadar değer dönderme ihtimali olur. Ben varsayımda bulunarak  iki sınıflı konuştum.)
+Not: Yukarıdaki değrelere bakarak şu yargıya vara biliriz ilk değer için bu 1 sınıfına çok yakın, diğeri 0 sınıfına çok yakın.
 
 
 
