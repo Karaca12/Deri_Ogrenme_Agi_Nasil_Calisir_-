@@ -29,7 +29,8 @@ Burada anlaştıysak devam edelim.
 Öncelikle deneme() yada try() fonskiyonu koşmaya başlar ; Bu fonksiyon öğrenme işlemidir.
 bu fonksiyonun altında şu fonksiyonlar koşturulur;
 
-1.ileriyayılım() koştur. --> giriş ve önceden belirlediğimiz (değişkenlere atadğımız ağırlıklarla çarpımını alır) bir değişkene sonuçları kaydeder ve geriyayılım methoduna gönderir()
+1.ileriyayılım() koştur. --> giriş ve önceden belirlediğimiz (değişkenlere atadğımız ağırlıklarla çarpımını alır) bir değişkene sonuçları kaydeder ve geriyayılım methoduna gönderir.
+<br>
 2.geriyayılım() koştur --->   gerçek sonuçtan tahmin değerini çıkarır. bu hata miktarı olarak kaydeder. ve bunuda günün sonu sonunda başlangıçta belirlediğimiz ağırlıklara ekleme/çıkarma yaparak bias yani ön yargın değerlerimizi verir. 
 
 
