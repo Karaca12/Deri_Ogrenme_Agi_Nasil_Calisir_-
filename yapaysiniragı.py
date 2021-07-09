@@ -5,7 +5,7 @@ import numpy as np
 
 
                         ###veriler ####
-giris=np.array([[0, 1, 0],  #bağımsız değişkenler  sütünu
+giris=np.array([[0, 1, 0],  #bağımsız değişkenler  sütunu
                    [0, 1, 1],
                    [0, 0, 0],
                    [1, 0, 0],
