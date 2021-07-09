@@ -19,6 +19,15 @@ Sinir Sistemi	| Yapay Sinir Ağı
 <br>
 <img width="900" height="500" src="https://github.com/Karaca12/Deri_Ogrenme_Agi_Nasil_Calisir_-/blob/main/sinirag%C4%B11.jpg">
 
+### İyi güzelde nasıl çalışyor?
+Öncelikle öğrenme ve tahmin işlemlerinin farklı şeyler olduğunu kesinlikle aklına kazımalısın.
+öğrenme işlemi ayrı zamanda koşturulur. Tahmin işlemi ayrı zamanda.
+Burada anlaştıysak devam edelim.
+
+Not: Gün içinde yazıya devam edeceyim kb.
+
+
+
 
 
 ## Aktivasyon  kod'da : def aktivasyonfc():
