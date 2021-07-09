@@ -5,17 +5,17 @@ Daha doğrusu bir yapay sinir ağı nasıl öğrenir onu burada anlamaya çalı�
 ## Yapay sinir ağı neye benzer ?
 <br>
 
-Sinir Sistemi	Yapay Sinir Ağı
+Sinir Sistemi	| Yapay Sinir Ağı
 <br>
-1.Nöron	1.İşlem Elemanı
+1.Nöron	|1.İşlem Elemanı
 <br>
-2.Dentrit	2.Toplama Fonksiyonu
+2.Dentrit	|2.Toplama Fonksiyonu
 <br>
-3.Hücre Gövdesi	3.Aktivasyon Fonksiyonu
+3.Hücre Gövdesi|	3.Aktivasyon Fonksiyonu
 <br>
-4.Akson	4.Eleman Çıkışı
+4.Akson	|4.Eleman Çıkışı
 <br>
-5.Sinaps	5.Ağırlıklar
+5.Sinaps|5.Ağırlıklar
 <br>
 <img width="900" height="500" src="https://github.com/Karaca12/Deri_Ogrenme_Agi_Nasil_Calisir_-/blob/main/sinirag%C4%B11.jpg">
 
