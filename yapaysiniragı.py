@@ -83,5 +83,5 @@ print(YSA.tahmin(example), ' - Gerçek: ', example[0][0])
 print(YSA.tahmin(example_2), ' - Gerçek: ', example_2[0][0])
 
 
-#-Eee kardeşim ikisinide bilemedi ne yapacağız ?  Merak etmeyin bu iyi haber sinir ağımız overfiting yapmamış!  
+#-Eee kardeşim bu hepsini bilemiyoru  şimdi  ne yapacağız ?  Merak etmeyin bu iyi haber sinir ağımız overfiting yapmamış!  
 #Bu tip verilerden çokça denerseniz ne kadar başarılı olup olmadığını sayarak anlayabilirsiniz.
