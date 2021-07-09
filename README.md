@@ -6,6 +6,7 @@ Daha doğrusu bir yapay sinir ağı nasıl öğrenir onu burada anlamaya çalı�
 <br>
 
 Sinir Sistemi	Yapay Sinir Ağı
+<br>
 1.Nöron	1.İşlem Elemanı
 <br>
 2.Dentrit	2.Toplama Fonksiyonu
