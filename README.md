@@ -36,7 +36,7 @@ bu fonksiyonun altında şu fonksiyonlar koşturulur;
 
 ### Tahmin Nasıl Çalışıyor ? 
 
-ileri ve geri yayılım methodlarımız sayesinde başlangıçta belirlediğimiz ağırlıklar  yapılan try(), deneme() ,öğren() her neyse  altında çalışan ileir ve geri yayılım  methodları sayesinde ağırlıkları başlangıç ağırlıklarına ekleyerek yada çıkarark yeni biaslar elde ederi. ve bunun sonunda aktivasyon fonksiyonu ateşlenir ve biz sınıflama aktivasyon fonksiyonu oluşturmuşsak   1 yada 0  döndürür girilen değere bağlı olarak.
+İleri ve geri yayılım methodlarımız sayesinde başlangıçta belirlediğimiz ağırlıklar  yapılan try(), deneme() ,öğren() her neyse  altında çalışan ileir ve geri yayılım  methodları sayesinde ağırlıkları başlangıç ağırlıklarına ekleyerek yada çıkarark yeni biaslar elde ederi. ve bunun sonunda aktivasyon fonksiyonu ateşlenir ve biz sınıflama aktivasyon fonksiyonu oluşturmuşsak   1 yada 0  döndürür girilen değere bağlı olarak.
 
 
 
